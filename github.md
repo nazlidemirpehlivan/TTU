@@ -8,6 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+[https://grafikart.fr/uploads/icons/git.png]
 
 ## R Markdown
 
