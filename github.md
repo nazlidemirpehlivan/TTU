@@ -1,14 +1,15 @@
 ---
 title: "ttu-git hub"
 author: "nazli"
-date: "2023-12-11"
+date: "2023-12-11"![git](https://github.com/nazlidemirpehlivan/TTU/assets/153450631/126897e6-ab69-4275-8891-e68ad065d00b)
+
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-[https://grafikart.fr/uploads/icons/git.png]
+
 
 ## R Markdown
 
